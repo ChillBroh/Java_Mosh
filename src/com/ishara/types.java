@@ -10,5 +10,7 @@ public class types {
         boolean isEligible = false;
         System.out.println(age);
         System.out.println(price);
+        //These are primitive date types. use to store simple vallues like numbers
+
     }
 }
