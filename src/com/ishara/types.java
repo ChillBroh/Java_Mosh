@@ -9,5 +9,6 @@ public class types {
         char letter = 'A';
         boolean isEligible = false;
         System.out.println(age);
+        System.out.println(price);
     }
 }
