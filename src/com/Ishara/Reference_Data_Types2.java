@@ -1,4 +1,4 @@
-package com.ishara;
+package com.Ishara;
 
 import java.awt.*;
 

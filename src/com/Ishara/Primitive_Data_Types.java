@@ -1,6 +1,6 @@
-package com.ishara;
+package com.Ishara;
 
-public class types {
+public class Primitive_Data_Types {
     public static void main(String[] args) {
         int age = 3;
         long viewsCount = 3_123_456_789L;
@@ -14,3 +14,4 @@ public class types {
 
     }
 }
+
