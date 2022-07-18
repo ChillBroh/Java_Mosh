@@ -1,3 +1,5 @@
+package com.ishara;
+
 public class String {
     public static void main(String[] args) {
         java.lang.String message = "hello world";
@@ -7,3 +9,4 @@ public class String {
 
     }
 }
+
