@@ -16,7 +16,7 @@ public class Mortgage_Calculator {
         int period = calculator.nextInt();
 
         double M_rate = interest/PERCENT/ALL_MONTHS;
-        int months = period * 12;
+        int months = period * ALL_MONTHS;
         double fraction = Math.pow((1 + M_rate),months);
         double calculation = (double)(M_rate * fraction) / (fraction - 1);
         double Mortgage = Double.parseDouble(principal) * calculation;
