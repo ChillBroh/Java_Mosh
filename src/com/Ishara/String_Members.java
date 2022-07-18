@@ -19,6 +19,8 @@ public class String_Members {
         String message3 = "    heyy babe";
         System.out.println(message3);
         System.out.println(message3.trim()); //remove white spaces
+        String message4 = "Hello \"Ishara\"";
+        System.out.println(message4);
 
     }
 }
