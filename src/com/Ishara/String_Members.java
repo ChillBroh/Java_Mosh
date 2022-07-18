@@ -12,6 +12,8 @@ public class String_Members {
         System.out.println(message.indexOf("b")); //return -1
         System.out.println(message.replace("!", "@")); //this is not modify the original string
         //any method always return new one
+
+
         System.out.println(message);
         String message2 = "hey babe";
         System.out.println(message2.endsWith("be"));
