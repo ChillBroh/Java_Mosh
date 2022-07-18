@@ -21,6 +21,8 @@ public class String_Members {
         System.out.println(message3.trim()); //remove white spaces
         String message4 = "Hello \"Ishara\"";
         System.out.println(message4);
+        String message5 = "C:\\Documents\\"; //print backslash with another black slash
+        System.out.println(message5);
 
     }
 }
