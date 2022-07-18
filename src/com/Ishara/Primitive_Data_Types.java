@@ -10,6 +10,9 @@ public class Primitive_Data_Types {
         boolean isEligible = false;
         System.out.println(age);
         System.out.println(price);
+        System.out.println(viewsCount);
+        System.out.println(letter);
+        System.out.println(isEligible);
         //These are primitive date types. use to store simple vallues like numbers
 
     }
