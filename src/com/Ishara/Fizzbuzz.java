@@ -19,4 +19,17 @@ public class Fizzbuzz {
         else
             System.out.println(num);
     }
+
+    /*also we can use this to remove repeating lines
+    if(num % 5 == 0){
+        if(num % 3 == 0)
+            System.out.print("FizzBuzz");
+        else
+            System.out.print("Fizz");
+     }
+     else if (num % 3 == 0)
+        System.out.println("Buzz");
+     else
+        System.out.println(num);
+     */
 }
