@@ -10,6 +10,10 @@ public class for_each {
         
         int[] numbers = new int[]{5,4,3,2,1};
         
+        for(int x : numbers){
+             System.out.print(x);
+        }
+        
         
     }
 }
